@@ -41,7 +41,7 @@ Bu proje, öğrencilerin akademik geçmişlerini, demografik özelliklerini ve *
 
 | Öğrenci Analiz Formu | Danışman Uyarıları Çıktısı |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/aa48ed13-4b0c-47e5-a1d5-9c82a5f5d2bb" width="400"> | <img src="https://github.com/user-attachments/assets/69bd61cc-a895-4fbe-9935-aee6747f444f" width="400"> |
+| <img src="https://github.com/user-attachments/assets/aa48ed13-4b0c-47e5-a1d5-9c82a5f5d2bb" width="400"> | <img src="https://github.com/user-attachments/assets/2c95bd53-d29f-4831-97aa-f3b923f8215d" width="400"> |
 
 ---
 
