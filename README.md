@@ -72,5 +72,5 @@ Projeyi kendi bilgisayarınızda çalıştırmak isterseniz aşağıdaki adımla
 
 ### 1. Repoyu Klonlayın
 ```bash
-git clone [https://github.com/KULLANICI_ADINIZ/siyarkafurogullari/Student-Dropout-Project](https://github.com/siyarkafurogullari/Student-Dropout-Project)
+git clone [https://github.com/siyarkafurogullari/Student-Dropout-Project](https://github.com/siyarkafurogullari/Student-Dropout-Project)
 cd Student-Dropout-Project
