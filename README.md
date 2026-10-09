@@ -65,6 +65,34 @@ Uygulamayı hemen test etmek için aşağıdaki bağlantıları kullanabilirsini
 *(Not: API ücretsiz sunucularda barındırıldığı için ilk uyandırma işlemi 30-50 saniye sürebilir.)*
 
 ---
+## Veri Seti ve Atıf
+
+Bu projede [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/697/predict+students+dropout+and+academic+success) üzerinde yayımlanan **"Predict Students' Dropout and Academic Success"** veri seti kullanılmıştır. Veri seti, Portekiz'deki Instituto Politécnico de Portalegre araştırmacıları tarafından hazırlanmıştır ve **CC BY 4.0** lisansı altında paylaşılmaktadır.
+
+**Veri seti atfı:**
+
+> Realinho, V., Machado, J., Baptista, L., & Martins, M. V. (2021). *Predict Students' Dropout and Academic Success* [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5MC89
+
+**İlgili makale:**
+
+> Realinho, V., Machado, J., Baptista, L., & Martins, M. V. (2022). Predicting Student Dropout and Academic Success. *Data*, 7(11), 146. https://doi.org/10.3390/data7110146
+
+**BibTeX:**
+
+```bibtex
+@article{realinho2022predicting,
+  title   = {Predicting Student Dropout and Academic Success},
+  author  = {Realinho, Valentim and Machado, Jorge and Baptista, Luís and Martins, Mónica V.},
+  journal = {Data},
+  volume  = {7},
+  number  = {11},
+  pages   = {146},
+  year    = {2022},
+  publisher = {MDPI},
+  doi     = {10.3390/data7110146}
+}
+```
+---
 
 ## 💻 Kurulum ve Lokal Çalıştırma
 
